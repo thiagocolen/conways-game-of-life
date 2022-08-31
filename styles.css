@@ -1,12 +1,37 @@
 body {
-  background: black;
-  margin: 0;
+  background: darkgreen;
+  margin: 50px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 main {
-  /* --- */
+  text-align: left;
 }
 
 canvas {
-  border: solid 0 gray;
+  border: solid 8px green;
+}
+
+h1 {
+  color: greenyellow;
+  margin-bottom: 30px;
+}
+
+footer {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
+
+a:link,
+a:visited {
+  color: black;
+}
+
+a:focus,
+a:hover {
+  color: green;
 }
