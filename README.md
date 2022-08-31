@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-omsm9q)
 
-#### This is a poor implementation of Conway`s game. More features comming soon.
+#### This is a poor implementation of Conway`s game. More features coming soon.
 
 [Conway`s game on Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
