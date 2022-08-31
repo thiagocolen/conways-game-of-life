@@ -9,7 +9,7 @@ const gridSize = 6;
 const grid = new Grid(canvasWidth, canvasHeigth, gridSize);
 
 window.setup = () => {
-  frameRate(48);
+  frameRate(12);
   createCanvas(canvasWidth, canvasHeigth);
   // patterns.create(grid, 'glider');
   patterns.randomCells(grid);
