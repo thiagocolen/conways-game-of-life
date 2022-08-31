@@ -18,7 +18,7 @@ h1 {
 }
 
 footer {
-  position: absolute;
+  position: fixed;
   right: 10px;
   bottom: 10px;
   font-size: 14px;
