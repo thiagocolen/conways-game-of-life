@@ -24,6 +24,7 @@ footer {
   font-size: 14px;
   font-weight: bold;
   color: black;
+  background-color: green;
 }
 
 a:link,
@@ -33,5 +34,5 @@ a:visited {
 
 a:focus,
 a:hover {
-  color: green;
+  color: darkgreen;
 }
